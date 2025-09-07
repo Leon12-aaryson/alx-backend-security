@@ -1,0 +1,6 @@
+Django>=4.0.0
+django-ipgeolocation>=1.0.0
+django-ratelimit>=4.0.0
+celery>=5.0.0
+redis>=4.0.0
+scikit-learn>=1.0.0
